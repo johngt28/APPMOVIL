@@ -1,3 +1,3 @@
-Proyecto Programacion app mobile
+#Proyecto Programacion app mobile
 John Gutierrez, Jonathan Gutierrez
 Seccion 005V
